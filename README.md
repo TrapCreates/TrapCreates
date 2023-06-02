@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @TrapCreates
-- 👀 I’m interested in Penetration Testing/ Incident Respone
+- 👀 I’m interested in Penetration Testing/ Incident Response
 - 🌱 I’m currently exploring opportunites in CyberSecurity with iOT devices 
 - 💞️ I’m looking to collaborate on Python Learning
 - 📫 How to reach me ... here
